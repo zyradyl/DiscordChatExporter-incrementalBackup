@@ -6,7 +6,7 @@
 # Sources:  github:Tyrrrz/DiscordChatExporter
 #
 # Usage:    You'll need to mount a volume containing config.json to /app/config
-#           The export directory goes to /app/export
+#           The export directory goes to /app/exports
 ################################################################################
 FROM alpine:latest
 
